@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+tensorflow_cpu
+scikit-learn
+pydot
+graphviz
+yahoo_fin
