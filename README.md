@@ -1,7 +1,9 @@
-# Stock Market AI
+# Market AI
 
 ## Description
-This is a project to predict the stock market using AI.
+This is a project to analyze different markets and try to use machine learning to exploit patterns in the data.
+
+The project is barely started, so there is not much to see here. Data comes from [Yahoo Finance](https://finance.yahoo.com/), and from ff14 [Universalis](https://universalis.app/).
 
 ## Installation
 
