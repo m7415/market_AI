@@ -1,10 +1,11 @@
+requests
 numpy
 pandas
 matplotlib
 seaborn
-tensorflow
-tensorflow_cpu
 scikit-learn
 pydot
 graphviz
-yahoo_fin
+plotly
+nbformat>=4.2.0
+pyyaml

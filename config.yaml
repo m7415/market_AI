@@ -1,0 +1,13 @@
+metadata:
+  data_center: 5
+  target_keys: ['itemID',
+  'worldID',
+  'lastUploadTime',
+  'nqSaleVelocity',
+  'hqSaleVelocity',
+  'averagePriceNQ',
+  'averagePriceHQ',
+  ]
+
+strategies:
+  key: value
